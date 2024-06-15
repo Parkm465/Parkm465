@@ -1,13 +1,12 @@
-### Hi there 👋 I'm Max Park, an aspiring software engineer
+## Hi there 👋 I'm Max Park, an aspiring software engineer
 
-## Skills 
-# Languages
+# I'm currently learning
 Java, Python
 
-## Projects
+# Projects
 
 
-## 📫 How to Reach Me
+# 📫 How to Reach Me
 - Linkedin
 - Email
 
