@@ -1,28 +1,13 @@
-## Hi there 👋 I'm Max Park, an aspiring software engineer
+#About Me
+- 👋 Hi! I'm Max Park, an aspiring software engineer
+- 🎓 Sophmore majoring in CS @ UMD College Park | Bachelours in  CS 2027
+- 🛠️ I'm currently building several projects ranging from Java to Python to improve my programming
+- ✨ Feel free to connect with me on [LinkedIn](www.linkedin.com/in/max-ryan-park) or [email](Parkr.m465@gmail.com)
 
-# I'm currently learning
+# Languages  
 Java, Python
 
-# Projects
-
-
-# 📫 How to Reach Me
-- Linkedin
-- Email
+# Projects That I'm Currently Working On
+- [Bridge Card Game]([url](https://github.com/Sonikyu/Bitcamp-2024-Better-Bridge))
 
 Thanks for visiting my profile! Feel free to connect with me!
-
-<!--
-**Parkm465/Parkm465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
