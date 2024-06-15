@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm Max Park, an aspiring software engineer
+
+## Skills 
+# Languages
+Java, Python
+
+## Projects
+
+
+## 📫 How to Reach Me
+- Linkedin
+- Email
+
+Thanks for visiting my profile! Feel free to connect with me!
 
 <!--
 **Parkm465/Parkm465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
