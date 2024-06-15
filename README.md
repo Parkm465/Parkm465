@@ -1,4 +1,4 @@
-#About Me
+# About Me
 - 👋 Hi! I'm Max Park, an aspiring software engineer
 - 🎓 Sophmore majoring in CS @ UMD College Park | Bachelours in  CS 2027
 - 🛠️ I'm currently building several projects ranging from Java to Python to improve my programming
