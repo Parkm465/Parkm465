@@ -4,8 +4,8 @@
 - 🛠️ I'm currently building several projects ranging from Java to Python to improve my programming
 - ✨ Feel free to connect with me on [LinkedIn](www.linkedin.com/in/max-ryan-park) or [email](Parkr.m465@gmail.com)
 
-# Languages  
-Java, Python
+# Technical Skills  
+Java, Python, MySQL
 
 # Projects That I'm Currently Working On
 - [Bridge Card Game]([url](https://github.com/Sonikyu/Bitcamp-2024-Better-Bridge))
