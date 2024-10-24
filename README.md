@@ -8,6 +8,6 @@
 Java, Python, MySQL
 
 # Projects That I'm Currently Working On
-- [Bridge Card Game]([url](https://github.com/Sonikyu/Bitcamp-2024-Better-Bridge))
+- N/a
 
 Thanks for visiting my profile! Feel free to connect with me!
