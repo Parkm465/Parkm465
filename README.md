@@ -5,7 +5,7 @@
 - ✨ Feel free to connect with me on [LinkedIn](www.linkedin.com/in/max-ryan-park) or [email](Parkr.m465@gmail.com)
 
 # Technical Skills  
-Java, Python, MySQL
+Java, Python, C, HTML, CSS, MySQL, Linux
 
 # Projects That I'm Currently Working On
 - N/a
