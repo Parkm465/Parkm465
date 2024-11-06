@@ -6,7 +6,9 @@
 
 # Technical Skills  
 **Languages/Databases:** Java, Python, C, MySQL
+
 **Tools/Frameworks:** HTML, CSS
+
 **Additional Skills:** Linux
 
 # Projects That I'm Currently Working On
