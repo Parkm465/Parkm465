@@ -14,11 +14,12 @@
 - Customer Lifetime Value Predictor
 
 # Previous Projects
-## 2025
+## 2026
 - [Customer Churn Prediction Machine Learning Project](https://github.com/Parkm465/telecom-churn-prediction)
   - Predicts customer churn (whether customer has left) based on demographics, service usage, account information, and billing information.
   - **Tech Stack:** Python, Pandas, scikit-learn, NumPy
   - Sole contributor to personal project
+## 2025
 - [PlanetTerp Review Classifier](https://github.com/Parkm465/PlanetTerp-Review-Classifier)
   - Predicts rating of 1-5 stars based on review user provided by students of professor.
   - **Tech Stack:** Python, Pandas, PyTorch HuggingFace Transformers, PlanetTerp API
