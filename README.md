@@ -1,20 +1,30 @@
 # About Me
 - 👋 Hi! I'm Max Park, an incoming software engineer
-- 🎓 Sophmore majoring in CS @ UMD College Park | Bachelours in  CS 2027
+- 🎓 Junior majoring in CS @ UMD College Park | Bachelours in  CS 2027
 - 🛠️ I'm currently building several projects ranging from Java to Python to improve my programming abilities
 - ✨ Feel free to connect with me on [LinkedIn](www.linkedin.com/in/max-ryan-park) or [email](Parkr.m465@gmail.com)
 
 # Technical Skills  
-**Languages/Databases:** Java, Python, C, MySQL
+**Languages**: Java, Python,, MySQL
+**Framework & Libraries**: scikit-learn, Pandas, NumPy, Matplotlib, HuggingFace Transformers, Pytorch
+**Tools**: Git, GitHub, IntelliJ IDEA, Visual Studio Code
 
-**Tools/Frameworks:** HTML, CSS
-
-**Additional Skills:** Linux
 
 # Projects That I'm Currently Working On
-- N/A: I'm busy with coursework
+- Customer Lifetime Value Predictor
 
 # Previous Projects
+## 2025
+- [Customer Churn Prediction Machine Learning Project](https://github.com/Parkm465/telecom-churn-prediction)
+  - Predicts customer churn (whether customer has left) based on demographics, service usage, account information, and billing information.
+  - **Tech Stack:** Python, Pandas, scikit-learn, NumPy
+  - Sole contributor to personal project
+- [PlanetTerp Review Classifier](https://github.com/Parkm465/PlanetTerp-Review-Classifier)
+  - Predicts rating of 1-5 stars based on review user provided by students of professor.
+  - **Tech Stack:** Python, Pandas, PyTorch HuggingFace Transformers, PlanetTerp API
+  - Sole contributor to class project
+
+## 2024
 - [IISS Comment Builder](https://github.com/Parkm465/IISSCommentBuilder/tree/master)
    - Allows users to add, modify, copy to clipboard, and delete comments intended to record progress made with client
    - **Tech Stack:** Java, JavaFx, MySQL
