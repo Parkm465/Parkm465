@@ -11,10 +11,14 @@
 
 
 # Projects That I'm Currently Working On
-- Customer Lifetime Value Predictor
+- N/a
 
 # Previous Projects
 ## 2026
+- [HighValueCustomerPredictionAPI]([url](https://github.com/Parkm465/HighValueCustomerPredictionAPI/tree/main))
+  - Predicts whether a customer is a high value customer based on spending habits, frequency of spending, and their recency in spending
+  - **Tech Stack:** Python, Pandas, scikit-learn, FastAPI, joblib
+  - Sole contributor to personal project
 - [Customer Churn Prediction Machine Learning Project](https://github.com/Parkm465/telecom-churn-prediction)
   - Predicts customer churn (whether customer has left) based on demographics, service usage, account information, and billing information.
   - **Tech Stack:** Python, Pandas, scikit-learn, NumPy
