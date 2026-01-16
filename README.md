@@ -15,7 +15,7 @@
 
 # Previous Projects
 ## 2026
-- [HighValueCustomerPredictionAPI]([url](https://github.com/Parkm465/HighValueCustomerPredictionAPI/tree/main))
+- [HighValueCustomerPredictionAPI](https://github.com/Parkm465/HighValueCustomerPredictionAPI/tree/main)
   - Predicts whether a customer is a high value customer based on spending habits, frequency of spending, and their recency in spending
   - **Tech Stack:** Python, Pandas, scikit-learn, FastAPI, joblib
   - Sole contributor to personal project
