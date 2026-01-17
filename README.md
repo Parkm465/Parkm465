@@ -27,8 +27,8 @@
 - [PlanetTerp Review Classifier](https://github.com/Parkm465/PlanetTerp-Review-Classifier)
   - Predicts rating of 1-5 stars based on review user provided by students of professor.
   - **Tech Stack:** Python, Pandas, PyTorch HuggingFace Transformers, PlanetTerp API
-  - Sole contributor to class project
-_ [Book Club Website](https://github.com/Parkm465/Book-Club-Website/tree/main)
+  - Sole contributor to class project  
+- [Book Club Website](https://github.com/Parkm465/Book-Club-Website/tree/main)
   - An interactive event website featuring form validation, dark mode, modals, and dynamic DOM updates.
   - **Tech Stack:** HTML, CSS, Javascript
   - Sole contributor to CodePath project
