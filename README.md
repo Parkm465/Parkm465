@@ -11,7 +11,7 @@
 
 
 # Projects That I'm Currently Working On
-- [*Together For You Pre-Internship Project*](https://github.com/Parkm465/Together-For-You-Pre-internship-Project)
+- [*Mentorship-Mentee App Project*](https://github.com/Parkm465/Together-For-You-Pre-internship-Project)
 
 # Previous Projects
 ## 2026
